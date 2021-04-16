@@ -1,53 +1,53 @@
-# No Code
+# 無代码
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+此处没有任何代码。
 
-## Getting Started
+## 快速开始
 
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+首先不写任何代码。
 
 ```
 
 ```
 
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
+示范：
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+永不放弃，永无止境。
+
+### 构建 & 编译
+
+甚至不用做什么，可以开始构建项目了：
 
 ```
 
 ```
 
-### Deploying
-
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+没错！项目会向控制台输出：
 
 ```
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+### 部署
+
+开始部署吧！
 
 ```
 
 ```
 
-I know right?
+可以以任何方式拓展本仓库！开心就好。
 
-## Contributing
+```
 
-You don't.
+```
+
+你懂得。
+
+## 贡献者
+
+我不知道。
